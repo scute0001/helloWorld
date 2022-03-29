@@ -1,0 +1,223 @@
+[
+  {
+    "name": "EA520",
+    "packageName": "",
+    "category": "DEVICE",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/EA520",
+      "tw": "https://www.ute.com/tw/products/detail/EA520",
+      "jp": "https://www.ute.com/jp/products/detail/1249",
+      "cn": "http://www.ute.com/cn/products/detail/EA520"
+    },
+    "videoUrl": {
+      "en": "https://www.ute.com/en/......",
+      "tw": "https://www.ute.com/tw/......",
+      "jp": "https://www.ute.com/jp/......",
+      "cn": "https://www.ute.com/cn/......"
+    }
+  },
+  {
+    "name": "ELauncher",
+    "packageName": "com.ute.eu.ELauncher",
+    "category": "APP",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/MoboLink",
+      "tw": "https://www.ute.com/tw/products/category/Software/Mobolink",
+      "jp": "https://www.ute.com/jp/products/detail/1070",
+      "cn": "http://www.ute.com/cn/products/detail/MoboLink"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "tw": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "jp": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "cn": "https://www.youtube.com/watch?v=wnNhQ2FhflU"
+    }
+  },
+  { 
+    "name": "MoboLink",
+    "packageName": "com.unitech.mobolink",
+    "category": "APP",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/MoboLink",
+      "tw": "https://www.ute.com/tw/products/detail/MoboLink",
+      "jp": "https://www.ute.com/jp/products/detail/1070",
+      "cn": "http://www.ute.com/cn/products/detail/MoboLink"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "tw": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "jp": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "cn": "https://www.youtube.com/watch?v=wnNhQ2FhflU"
+    }
+  },
+  {
+    "name": "StageGO",
+    "packageName": "com.unitech.stagego2",
+    "category": "APP",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/StageGO",
+      "tw": "https://www.ute.com/tw/products/detail/StageGO",
+      "jp": "https://www.ute.com/jp/products/detail/1065",
+      "cn": "http://www.ute.com/cn/products/detail/MoboLink"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=GdPzBpNR7pU",
+      "tw": "https://www.youtube.com/watch?v=nvKrA2rMdtA",
+      "jp": "https://www.youtube.com/watch?v=bv5suswMDtQ",
+      "cn": "https://www.youtube.com/watch?v=GdPzBpNR7pU"
+    }
+  },
+  {
+    "name": "KeyRemap",
+    "packageName": "com.unitech.keyremap",
+    "category": "APP",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/MoboLink",
+      "tw": "https://www.ute.com/tw/products/detail/MoboLink",
+      "jp": "https://www.ute.com/jp/products/detail/1070",
+      "cn": "http://www.ute.com/cn/products/detail/MoboLink"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "tw": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "jp": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "cn": "https://www.youtube.com/watch?v=wnNhQ2FhflU"
+    }
+  },
+  {
+    "name": "Software Update",
+    "packageName": "com.unitech.usus",
+    "category": "APP",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/MoboLink",
+      "tw": "https://www.ute.com/tw/products/detail/MoboLink",
+      "jp": "https://www.ute.com/jp/products/detail/1070",
+      "cn": "http://www.ute.com/cn/products/detail/MoboLink"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "tw": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "jp": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "cn": "https://www.youtube.com/watch?v=wnNhQ2FhflU"
+    }
+  },
+  {
+    "name": "TagAccess",
+    "packageName": "com.unitech.tagaccess",
+    "category": "APP",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/MoboLink",
+      "tw": "https://www.ute.com/tw/products/detail/MoboLink",
+      "jp": "https://www.ute.com/jp/products/detail/1070",
+      "cn": "http://www.ute.com/cn/products/detail/MoboLink"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=qhyt_s0-YLc",
+      "tw": "https://www.youtube.com/watch?v=qhyt_s0-YLc",
+      "jp": "https://www.youtube.com/watch?v=qhyt_s0-YLc",
+      "cn": "https://www.youtube.com/watch?v=qhyt_s0-YLc"
+    }
+  },
+  {
+    "name": "Scanner Utility",
+    "packageName": "com.unitech.scanner.utility",
+    "category": "APP",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/MoboLink",
+      "tw": "https://www.ute.com/tw/products/detail/MoboLink",
+      "jp": "https://www.ute.com/jp/products/detail/1070",
+      "cn": "http://www.ute.com/cn/products/detail/MoboLink"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "tw": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "jp": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "cn": "https://www.youtube.com/watch?v=wnNhQ2FhflU"
+    }
+  },
+  {
+    "name": "USS",
+    "packageName": "com.unitech.scanservice",
+    "category": "APP",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/MoboLink",
+      "tw": "https://www.ute.com/tw/products/detail/MoboLink",
+      "jp": "https://www.ute.com/jp/products/detail/1070",
+      "cn": "http://www.ute.com/cn/products/detail/MoboLink"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "tw": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "jp": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "cn": "https://www.youtube.com/watch?v=wnNhQ2FhflU"
+    }
+  },
+  {
+    "name": "USSCamera",
+    "packageName": "com.unitech.usscamera",
+    "category": "APP",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/MoboLink",
+      "tw": "https://www.ute.com/tw/products/detail/MoboLink",
+      "jp": "https://www.ute.com/jp/products/detail/1070",
+      "cn": "http://www.ute.com/cn/products/detail/MoboLink"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "tw": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "jp": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "cn": "https://www.youtube.com/watch?v=wnNhQ2FhflU"
+    }
+  },
+  {
+    "name": "UnitechLogger",
+    "packageName": "com.unitech.unitechlogger",
+    "category": "APP",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/MoboLink",
+      "tw": "https://www.ute.com/tw/products/detail/MoboLink",
+      "jp": "https://www.ute.com/jp/products/detail/1070",
+      "cn": "http://www.ute.com/cn/products/detail/MoboLink"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "tw": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "jp": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "cn": "https://www.youtube.com/watch?v=wnNhQ2FhflU"
+    }
+  },
+  {
+    "name": "Enterprise Keyboard",
+    "packageName": "com.unitech.enterprisekeyboard",
+    "category": "APP",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/MoboLink",
+      "tw": "https://www.ute.com/tw/products/detail/MoboLink",
+      "jp": "https://www.ute.com/jp/products/detail/1070",
+      "cn": "http://www.ute.com/cn/products/detail/MoboLink"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "tw": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "jp": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "cn": "https://www.youtube.com/watch?v=wnNhQ2FhflU"
+    }
+  },
+  {
+    "name": "NFC Service",
+    "packageName": "com.unitech.nfcservice",
+    "category": "APP",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/MoboLink",
+      "tw": "https://www.ute.com/tw/products/detail/MoboLink",
+      "jp": "https://www.ute.com/jp/products/detail/1070",
+      "cn": "http://www.ute.com/cn/products/detail/MoboLink"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "tw": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "jp": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "cn": "https://www.youtube.com/watch?v=wnNhQ2FhflU"
+    }
+  }
+]
