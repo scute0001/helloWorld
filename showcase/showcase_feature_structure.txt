@@ -114,6 +114,25 @@
          "cn": "https://www.youtube.com/watch?v=oDVEQK5rUPM"
        }
      },	  
+     {
+       "name": "EA630",
+       "packageName": "",
+       "category": "DEVICE",
+       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+       "appCategory":"",
+       "featureUrl": {
+         "en": "https://www.ute.com/en/products/detail/EA630Plus",
+         "tw": "https://www.ute.com/en/products/detail/EA630Plus",
+         "jp": "https://www.ute.com/jp/products/detail/1347",
+         "cn": "https://www.ute.com/en/products/detail/EA630Plus"
+       },
+       "videoUrl": {
+         "en": "https://www.youtube.com/watch?v=oDVEQK5rUPM",
+         "tw": "https://www.youtube.com/watch?v=oDVEQK5rUPM",
+         "jp": "https://www.youtube.com/watch?v=oDVEQK5rUPM",
+         "cn": "https://www.youtube.com/watch?v=oDVEQK5rUPM"
+       }
+     },	
     {
        "name": "HT730",
        "packageName": "",
