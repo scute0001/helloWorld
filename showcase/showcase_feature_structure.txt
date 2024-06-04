@@ -156,7 +156,7 @@
        "name": "ELauncher",
        "packageName": "com.ute.eu.ELauncher",
        "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+       "iconURL":"",
        "appCategory":"MANAGEMENT",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/elauncher",
@@ -175,7 +175,7 @@
        "name": "MoboLink",
        "packageName": "com.unitech.mobolink",
        "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+       "iconURL":"",
        "appCategory":"MANAGEMENT",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/MoboLink4",
@@ -194,7 +194,7 @@
        "name": "StageGO",
        "packageName": "com.unitech.stagego2",
        "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+       "iconURL":"",
        "appCategory":"DEPLOYMENT",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/stagego",
@@ -213,7 +213,7 @@
        "name": "KeyRemap",
        "packageName": "com.unitech.keyremap",
        "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+       "iconURL":"",
        "appCategory":"PRODUCTIVITY",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/keyremap",
@@ -232,7 +232,7 @@
        "name": "Software Update",
        "packageName": "com.unitech.usus",
        "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+       "iconURL":"",
        "appCategory":"PRODUCTIVITY",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
@@ -251,7 +251,7 @@
        "name": "TagAccess",
        "packageName": "com.unitech.tagaccess",
        "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+       "iconURL":"",
        "appCategory":"RFID",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/TagAccess",
@@ -270,7 +270,7 @@
        "name": "Scanner Utility",
        "packageName": "com.unitech.scanner.utility",
        "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+       "iconURL":"",
        "appCategory":"SCANNER",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
@@ -289,7 +289,7 @@
        "name": "USS",
        "packageName": "com.unitech.scanservice",
        "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+       "iconURL":"",
        "appCategory":"SCANNER",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
@@ -308,7 +308,7 @@
        "name": "USSCamera",
        "packageName": "com.unitech.usscamera",
        "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+       "iconURL":"",
        "appCategory":"PRODUCTIVITY",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
@@ -327,7 +327,7 @@
        "name": "Logger",
        "packageName": "com.unitech.logger",
        "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+       "iconURL":"",
        "appCategory":"PRODUCTIVITY",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
@@ -346,7 +346,7 @@
        "name": "Enterprise Keyboard",
        "packageName": "com.unitech.enterprisekeyboard",
        "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+       "iconURL":"",
        "appCategory":"PRODUCTIVITY",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
@@ -365,7 +365,7 @@
        "name": "NFC Service",
        "packageName": "com.unitech.nfcservice",
        "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+       "iconURL":"",
        "appCategory":"PRODUCTIVITY",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
@@ -385,7 +385,26 @@
         "packageName": "com.unitech.enterprisebrowser",
         "category": "APP",
         "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-        "appCategory":"PRODUCTIVITY",
+        "appCategory":"SDK",
+        "featureUrl": {
+          "en": "https://www.ute.com/en/products/detail/software_overview",
+          "tw": "https://www.ute.com/en/products/detail/software_overview",
+          "jp": "https://www.ute.com/en/products/detail/software_overview",
+          "cn": "https://www.ute.com/en/products/detail/software_overview"
+        },
+        "videoUrl": {
+          "en": "https://coming_soon",
+          "tw": "https://coming_soon",
+          "jp": "https://coming_soon",
+          "cn": "https://coming_soon"
+        }
+      }
+      {
+        "name": "TestAPP",
+        "packageName": "com.unitech.testapp",
+        "category": "APP",
+        "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+        "appCategory":"SCANNER",
         "featureUrl": {
           "en": "https://www.ute.com/en/products/detail/software_overview",
           "tw": "https://www.ute.com/en/products/detail/software_overview",
