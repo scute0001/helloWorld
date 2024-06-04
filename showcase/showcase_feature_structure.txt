@@ -398,7 +398,7 @@
           "jp": "https://coming_soon",
           "cn": "https://coming_soon"
         }
-      }
+      },
       {
         "name": "TestAPP",
         "packageName": "com.unitech.testapp",
