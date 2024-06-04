@@ -403,7 +403,7 @@
         "name": "TestAPP",
         "packageName": "com.unitech.testapp",
         "category": "APP",
-        "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
+        "iconURL":"",
         "appCategory":"SCANNER",
         "featureUrl": {
           "en": "https://www.ute.com/en/products/detail/software_overview",
