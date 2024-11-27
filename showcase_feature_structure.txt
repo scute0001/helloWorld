@@ -418,5 +418,45 @@
           "jp": "https://coming_soon",
           "cn": "https://coming_soon"
         }
-      }
+      },
+{
+    "name": "OEMConfig",
+    "packageName": "com.unitech.oemconfig",
+    "category": "APP",
+	"iconURL":"https://apps.ute.com/showcase/icon/OEMConfig.png",
+	"appCategory":"DEPLOYMENT",
+"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/OEMConfig",
+      "tw": "https://www.ute.com/en/products/detail/OEMConfig",
+      "jp": "https://www.ute.com/en/products/detail/OEMConfig",
+      "cn": "https://www.ute.com/en/products/detail/OEMConfig"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },
+  {
+    "name": "ScanBridge",
+    "packageName": "com.unitech.scanbridge",
+    "category": "APP",
+	"iconURL":"https://apps.ute.com/showcase/icon/ScanBridge.png",
+	"appCategory":"SCANNER",
+"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/ScanBridge",
+      "tw": "https://www.ute.com/tw/products/detail/ScanBridge",
+      "jp": "https://www.ute.com/jp/products/detail/ScanBridge",
+      "cn": "https://www.ute.com/cn/products/detail/ScanBridge"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  }  
    ]
