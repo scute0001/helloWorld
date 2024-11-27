@@ -1,4 +1,24 @@
 [
+ {
+        "name": "PA768e",
+        "packageName": "",
+        "category": "DEVICE",
+	    "iconURL":"",
+	    "appCategory":"DEVICE",
+        "demo":"true",
+        "featureUrl": {
+          "en": "https://www.ute.com/en/products/detail/PA768",
+          "tw": "https://www.ute.com/tw/products/detail/PA768",
+          "jp": "https://www.ute.com/en/products/detail/PA768",
+          "cn": "http://www.ute-cn.com/cn/products/detail/PA768"
+        },
+        "videoUrl": {
+          "en": "https://youtu.be/C5BbJI2hM90",
+          "tw": "https://youtu.be/YaVBruJDYrs",
+          "jp": "https://youtu.be/C5BbJI2hM90",
+          "cn": "https://v.youku.com/v_show/id_XNTkzMjcxODIzNg==.html?spm=a1z3jc.11711052.0.0&isextonly=1"
+        }
+      },
     {
        "name": "RT112",
        "packageName": "",
@@ -436,5 +456,45 @@
           "jp": "https://coming_soon",
           "cn": "https://coming_soon"
         }
-      }
+      },
+{
+    "name": "OEMConfig",
+    "packageName": "com.unitech.oemconfig",
+    "category": "APP",
+	"iconURL":"https://apps.ute.com/showcase/icon/OEMConfig.png",
+	"appCategory":"DEPLOYMENT",
+"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/OEMConfig",
+      "tw": "https://www.ute.com/en/products/detail/OEMConfig",
+      "jp": "https://www.ute.com/en/products/detail/OEMConfig",
+      "cn": "https://www.ute.com/en/products/detail/OEMConfig"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },
+  {
+    "name": "ScanBridge",
+    "packageName": "com.unitech.scanbridge",
+    "category": "APP",
+	"iconURL":"https://apps.ute.com/showcase/icon/ScanBridge.png",
+	"appCategory":"SCANNER",
+"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/ScanBridge",
+      "tw": "https://www.ute.com/tw/products/detail/ScanBridge",
+      "jp": "https://www.ute.com/jp/products/detail/ScanBridge",
+      "cn": "https://www.ute.com/cn/products/detail/ScanBridge"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  }  
    ]
