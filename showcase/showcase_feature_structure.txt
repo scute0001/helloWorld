@@ -19,6 +19,26 @@
           "cn": "https://v.youku.com/v_show/id_XNTkzMjcxODIzNg==.html?spm=a1z3jc.11711052.0.0&isextonly=1"
         }
       },
+ {
+        "name": "PA768",
+        "packageName": "",
+        "category": "DEVICE",
+	    "iconURL":"",
+	    "appCategory":"DEVICE",
+        "demo":"false",
+        "featureUrl": {
+          "en": "https://www.ute.com/en/products/detail/PA768",
+          "tw": "https://www.ute.com/tw/products/detail/PA768",
+          "jp": "https://www.ute.com/en/products/detail/PA768",
+          "cn": "http://www.ute-cn.com/cn/products/detail/PA768"
+        },
+        "videoUrl": {
+          "en": "https://youtu.be/C5BbJI2hM90",
+          "tw": "https://youtu.be/YaVBruJDYrs",
+          "jp": "https://youtu.be/C5BbJI2hM90",
+          "cn": "https://v.youku.com/v_show/id_XNTkzMjcxODIzNg==.html?spm=a1z3jc.11711052.0.0&isextonly=1"
+        }
+      },
     {
        "name": "RT112",
        "packageName": "",
@@ -197,6 +217,7 @@
        "category": "APP",
        "iconURL":"",
        "appCategory":"MANAGEMENT",
+"demo":"true",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/elauncher",
          "tw": "https://www.ute.com/en/products/detail/elauncher",
@@ -216,6 +237,7 @@
        "category": "APP",
        "iconURL":"",
        "appCategory":"MANAGEMENT",
+"demo":"true",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/MoboLink4",
          "tw": "https://www.ute.com/tw/products/detail/MoboLink",
@@ -234,6 +256,7 @@
        "packageName": "com.unitech.stagego2",
        "category": "APP",
        "iconURL":"",
+"demo":"true",
        "appCategory":"DEPLOYMENT",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/stagego",
@@ -253,6 +276,7 @@
        "packageName": "com.unitech.keyremap",
        "category": "APP",
        "iconURL":"",
+"demo":"true",
        "appCategory":"PRODUCTIVITY",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/keyremap",
@@ -272,6 +296,7 @@
        "packageName": "com.unitech.usus",
        "category": "APP",
        "iconURL":"",
+"demo":"true",
        "appCategory":"PRODUCTIVITY",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
@@ -291,6 +316,7 @@
        "packageName": "com.unitech.tagaccess",
        "category": "APP",
        "iconURL":"",
+"demo":"true",
        "appCategory":"RFID",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/TagAccess",
@@ -310,6 +336,7 @@
        "packageName": "com.unitech.scanner.utility",
        "category": "APP",
        "iconURL":"",
+"demo":"true",
        "appCategory":"SCANNER",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
@@ -330,6 +357,7 @@
        "category": "APP",
        "iconURL":"",
        "appCategory":"SCANNER",
+"demo":"true",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
          "tw": "https://www.ute.com/en/products/detail/software_overview",
@@ -348,6 +376,7 @@
        "packageName": "com.unitech.usscamera",
        "category": "APP",
        "iconURL":"",
+"demo":"true",
        "appCategory":"PRODUCTIVITY",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
@@ -367,6 +396,7 @@
        "packageName": "com.unitech.logger",
        "category": "APP",
        "iconURL":"",
+"demo":"true",
        "appCategory":"PRODUCTIVITY",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
@@ -387,6 +417,7 @@
        "category": "APP",
        "iconURL":"",
        "appCategory":"PRODUCTIVITY",
+"demo":"true",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
          "tw": "https://www.ute.com/en/products/detail/software_overview",
@@ -406,6 +437,7 @@
        "category": "APP",
        "iconURL":"",
        "appCategory":"PRODUCTIVITY",
+"demo":"true",
        "featureUrl": {
          "en": "https://www.ute.com/en/products/detail/software_overview",
          "tw": "https://www.ute.com/en/products/detail/software_overview",
@@ -425,6 +457,7 @@
         "category": "APP",
         "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
         "appCategory":"SDK",
+"demo":"true",
         "featureUrl": {
           "en": "https://www.ute.com/en/products/detail/software_overview",
           "tw": "https://www.ute.com/en/products/detail/software_overview",
@@ -444,6 +477,7 @@
         "category": "APP",
         "iconURL":"",
         "appCategory":"SCANNER",
+"demo":"true",
         "featureUrl": {
           "en": "https://www.ute.com/en/products/detail/software_overview",
           "tw": "https://www.ute.com/en/products/detail/software_overview",
@@ -463,7 +497,7 @@
     "category": "APP",
 	"iconURL":"https://apps.ute.com/showcase/icon/OEMConfig.png",
 	"appCategory":"DEPLOYMENT",
-"demo":"true",
+"demo":"",
     "featureUrl": {
       "en": "https://www.ute.com/en/products/detail/OEMConfig",
       "tw": "https://www.ute.com/en/products/detail/OEMConfig",
