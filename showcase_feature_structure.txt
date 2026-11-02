@@ -1,431 +1,552 @@
 [
-    {
-        "name": "PA768e",
-        "packageName": "",
-        "category": "DEVICE",
-	    "iconURL":"",
-	    "appCategory":"DEVICE",
-        "demo":"true",
-        "featureUrl": {
-          "en": "https://www.ute.com/en/products/detail/PA768",
-          "tw": "https://www.ute.com/tw/products/detail/PA768",
-          "jp": "https://www.ute.com/en/products/detail/PA768",
-          "cn": "http://www.ute-cn.com/cn/products/detail/PA768"
-        },
-        "videoUrl": {
-          "en": "https://youtu.be/C5BbJI2hM90",
-          "tw": "https://youtu.be/YaVBruJDYrs",
-          "jp": "https://youtu.be/C5BbJI2hM90",
-          "cn": "https://v.youku.com/v_show/id_XNTkzMjcxODIzNg==.html?spm=a1z3jc.11711052.0.0&isextonly=1"
-        }
-      },	
-    {
-       "name": "RT112",
-       "packageName": "",
-       "category": "DEVICE",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/RT112",
-         "tw": "https://www.ute.com/en/products/detail/RT112",
-         "jp": "https://www.ute.com/en/products/detail/RT112",
-         "cn": "https://www.ute.com/en/products/detail/RT112"
-       },
-       "videoUrl": {
-         "en": "https://coming_soon",
-         "tw": "https://coming_soon",
-         "jp": "https://coming_soon",
-         "cn": "https://coming_soon"
-       }
-     },
-    {
-       "name": "EA660",
-       "packageName": "",
-       "category": "DEVICE",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/EA660",
-         "tw": "https://www.ute.com/en/products/detail/EA660",
-         "jp": "https://www.ute.com/en/products/detail/EA660",
-         "cn": "https://www.ute.com/en/products/detail/EA660"
-       },
-       "videoUrl": {
-         "en": "https://coming_soon",
-         "tw": "https://coming_soon",
-         "jp": "https://coming_soon",
-         "cn": "https://coming_soon"
-       }
-     },	 
-   
-    {
-       "name": "PA768",
-       "packageName": "",
-       "category": "DEVICE",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/PA768",
-         "tw": "https://www.ute.com/tw/products/detail/PA768",
-         "jp": "https://www.ute.com/en/products/detail/PA768",
-         "cn": "http://www.ute-cn.com/cn/products/detail/PA768"
-       },
-       "videoUrl": {
-         "en": "https://youtu.be/C5BbJI2hM90",
-         "tw": "https://youtu.be/YaVBruJDYrs",
-         "jp": "https://youtu.be/C5BbJI2hM90",
-         "cn": "https://v.youku.com/v_show/id_XNTkzMjcxODIzNg==.html?spm=a1z3jc.11711052.0.0&isextonly=1"
-       }
-     },	  	  	  
-     {
-       "name": "EA520",
-       "packageName": "",
-       "category": "DEVICE",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/EA520",
-         "tw": "https://www.ute.com/tw/products/detail/EA520",
-         "jp": "https://www.ute.com/jp/products/detail/1249",
-         "cn": "http://www.ute.com/cn/products/detail/EA520"
-       },
-       "videoUrl": {
-         "en": "https://www.youtube.com/watch?v=LzFK9xUUKmk",
-         "tw": "https://www.youtube.com/watch?v=LzFK9xUUKmk",
-         "jp": "https://www.youtube.com/watch?v=LzFK9xUUKmk",
-         "cn": "https://www.youtube.com/watch?v=LzFK9xUUKmk"
-       }
-     },
-     {
-       "name": "HT330",
-       "packageName": "",
-       "category": "DEVICE",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/HT330",
-         "tw": "https://www.ute.com/en/products/detail/HT330",
-         "jp": "https://www.ute.com/jp/products/detail/1346",
-         "cn": "https://www.ute.com/en/products/detail/HT330"
-       },
-       "videoUrl": {
-         "en": "https://www.youtube.com/watch?v=2qdaXXNZ2Uw",
-         "tw": "https://www.youtube.com/watch?v=2qdaXXNZ2Uw",
-         "jp": "https://www.youtube.com/watch?v=2qdaXXNZ2Uw",
-         "cn": "https://www.youtube.com/watch?v=2qdaXXNZ2Uw"
-       }
-     },	  
-     {
-       "name": "EA630_Plus",
-       "packageName": "",
-       "category": "DEVICE",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/EA630Plus",
-         "tw": "https://www.ute.com/en/products/detail/EA630Plus",
-         "jp": "https://www.ute.com/jp/products/detail/1347",
-         "cn": "https://www.ute.com/en/products/detail/EA630Plus"
-       },
-       "videoUrl": {
-         "en": "https://www.youtube.com/watch?v=oDVEQK5rUPM",
-         "tw": "https://www.youtube.com/watch?v=oDVEQK5rUPM",
-         "jp": "https://www.youtube.com/watch?v=oDVEQK5rUPM",
-         "cn": "https://www.youtube.com/watch?v=oDVEQK5rUPM"
-       }
-     },	  
-    {
-       "name": "HT730",
-       "packageName": "",
-       "category": "DEVICE",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/HT730",
-         "tw": "https://www.ute.com/tw/products/detail/HT730",
-         "jp": "https://www.ute.com/jp/products/detail/1158",
-         "cn": "http://www.ute.com/cn/products/detail/HT730"
-       },
-       "videoUrl": {
-         "en": "https://www.youtube.com/watch?v=WtMKjed0gT0",
-         "tw": "https://www.youtube.com/watch?v=WtMKjed0gT0",
-         "jp": "https://www.youtube.com/watch?v=WtMKjed0gT0",
-         "cn": "https://www.youtube.com/watch?v=WtMKjed0gT0"
-       }
-     },	  	  
-    {
-       "name": "PA760",
-       "packageName": "",
-       "category": "DEVICE",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/PA760",
-         "tw": "https://www.ute.com/tw/products/detail/PA760",
-         "jp": "https://www.ute.com/jp/products/detail/PA760",
-         "cn": "http://www.ute.com/cn/products/detail/PA760"
-       },
-       "videoUrl": {
-         "en": "https://www.youtube.com/watch?v=hazRCvcgcjM",
-         "tw": "https://www.youtube.com/watch?v=hazRCvcgcjM",
-         "jp": "https://www.youtube.com/watch?v=hazRCvcgcjM",
-         "cn": "https://www.youtube.com/watch?v=hazRCvcgcjM"
-       }
-     },	  	  	  
-     {
-       "name": "ELauncher",
-       "packageName": "com.ute.eu.ELauncher",
-       "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"MANAGEMENT",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/elauncher",
-         "tw": "https://www.ute.com/en/products/detail/elauncher",
-         "jp": "https://www.ute.com/jp/products/detail/1355",
-         "cn": "https://www.ute.com/en/products/detail/elauncher"
-       },
-       "videoUrl": {
-         "en": "https://www.youtube.com/watch?v=IHEuxyEZ218",
-         "tw": "https://www.youtube.com/watch?v=IHEuxyEZ218",
-         "jp": "https://www.youtube.com/watch?v=IHEuxyEZ218",
-         "cn": "https://www.youtube.com/watch?v=IHEuxyEZ218"
-       }
-     },
-     { 
-       "name": "MoboLink",
-       "packageName": "com.unitech.mobolink",
-       "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"MANAGEMENT",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/MoboLink4",
-         "tw": "https://www.ute.com/tw/products/detail/MoboLink",
-         "jp": "https://www.ute.com/jp/products/detail/1070",
-         "cn": "http://www.ute.com/cn/products/detail/MoboLink"
-       },
-       "videoUrl": {
-         "en": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
-         "tw": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
-         "jp": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
-         "cn": "https://www.youtube.com/watch?v=wnNhQ2FhflU"
-       }
-     },
-     {
-       "name": "StageGO",
-       "packageName": "com.unitech.stagego2",
-       "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"DEPLOYMENT",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/stagego",
-         "tw": "https://www.ute.com/tw/products/detail/StageGO",
-         "jp": "https://www.ute.com/jp/products/detail/1065",
-         "cn": "https://www.ute.com/en/products/detail/stagego"
-       },
-       "videoUrl": {
-         "en": "https://www.youtube.com/watch?v=GdPzBpNR7pU",
-         "tw": "https://www.youtube.com/watch?v=nvKrA2rMdtA",
-         "jp": "https://www.youtube.com/watch?v=bv5suswMDtQ",
-         "cn": "https://www.youtube.com/watch?v=GdPzBpNR7pU"
-       }
-     },
-     {
-       "name": "KeyRemap",
-       "packageName": "com.unitech.keyremap",
-       "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"PRODUCTIVITY",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/keyremap",
-         "tw": "https://www.ute.com/en/products/detail/keyremap",
-         "jp": "https://www.ute.com/en/products/detail/keyremap",
-         "cn": "https://www.ute.com/en/products/detail/keyremap"
-       },
-       "videoUrl": {
-         "en": "https://coming_soon",
-         "tw": "https://coming_soon",
-         "jp": "https://coming_soon",
-         "cn": "https://coming_soon"
-       }
-     },
-     {
-       "name": "Software Update",
-       "packageName": "com.unitech.usus",
-       "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"PRODUCTIVITY",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/software_overview",
-         "tw": "https://www.ute.com/en/products/detail/software_overview",
-         "jp": "https://www.ute.com/en/products/detail/software_overview",
-         "cn": "https://www.ute.com/en/products/detail/software_overview"
-       },
-       "videoUrl": {
-         "en": "https://coming_soon",
-         "tw": "https://coming_soon",
-         "jp": "https://coming_soon",
-         "cn": "https://coming_soon"
-       }
-     },
-     {
-       "name": "TagAccess",
-       "packageName": "com.unitech.tagaccess",
-       "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"RFID",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/TagAccess",
-         "tw": "https://www.ute.com/en/products/detail/TagAccess",
-         "jp": "https://www.ute.com/jp/products/detail/1345",
-         "cn": "https://www.ute.com/en/products/detail/TagAccess"
-       },
-       "videoUrl": {
-         "en": "https://www.youtube.com/watch?v=qhyt_s0-YLc",
-         "tw": "https://www.youtube.com/watch?v=qhyt_s0-YLc",
-         "jp": "https://www.youtube.com/watch?v=paFVj8ln5xQ",
-         "cn": "https://www.youtube.com/watch?v=qhyt_s0-YLc"
-       }
-     },
-     {
-       "name": "Scanner Utility",
-       "packageName": "com.unitech.scanner.utility",
-       "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"SCANNER",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/software_overview",
-         "tw": "https://www.ute.com/en/products/detail/software_overview",
-         "jp": "https://www.ute.com/en/products/detail/software_overview",
-         "cn": "https://www.ute.com/en/products/detail/software_overview"
-       },
-       "videoUrl": {
-         "en": "https://coming_soon",
-         "tw": "https://coming_soon",
-         "jp": "https://coming_soon",
-         "cn": "https://coming_soon"
-       }
-     },
-     {
-       "name": "USS",
-       "packageName": "com.unitech.scanservice",
-       "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"SCANNER",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/software_overview",
-         "tw": "https://www.ute.com/en/products/detail/software_overview",
-         "jp": "https://www.ute.com/en/products/detail/software_overview",
-         "cn": "https://www.ute.com/en/products/detail/software_overview"
-       },
-       "videoUrl": {
-         "en": "https://coming_soon",
-         "tw": "https://coming_soon",
-         "jp": "https://coming_soon",
-         "cn": "https://coming_soon"
-       }
-     },
-     {
-       "name": "USSCamera",
-       "packageName": "com.unitech.usscamera",
-       "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"PRODUCTIVITY",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/software_overview",
-         "tw": "https://www.ute.com/en/products/detail/software_overview",
-         "jp": "https://www.ute.com/en/products/detail/software_overview",
-         "cn": "https://www.ute.com/en/products/detail/software_overview"
-       },
-       "videoUrl": {
-         "en": "https://coming_soon",
-         "tw": "https://coming_soon",
-         "jp": "https://coming_soon",
-         "cn": "https://coming_soon"
-       }
-     },
-     {
-       "name": "Logger",
-       "packageName": "com.unitech.logger",
-       "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"PRODUCTIVITY",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/software_overview",
-         "tw": "https://www.ute.com/en/products/detail/software_overview",
-         "jp": "https://www.ute.com/en/products/detail/software_overview",
-         "cn": "https://www.ute.com/en/products/detail/software_overview"
-       },
-       "videoUrl": {
-         "en": "https://coming_soon",
-         "tw": "https://coming_soon",
-         "jp": "https://coming_soon",
-         "cn": "https://coming_soon"
-       }
-     },
-     {
-       "name": "Enterprise Keyboard",
-       "packageName": "com.unitech.enterprisekeyboard",
-       "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"PRODUCTIVITY",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/software_overview",
-         "tw": "https://www.ute.com/en/products/detail/software_overview",
-         "jp": "https://www.ute.com/en/products/detail/software_overview",
-         "cn": "https://www.ute.com/en/products/detail/software_overview"
-       },
-       "videoUrl": {
-         "en": "https://coming_soon",
-         "tw": "https://coming_soon",
-         "jp": "https://coming_soon",
-         "cn": "https://coming_soon"
-       }
-     },
-     {
-       "name": "NFC Service",
-       "packageName": "com.unitech.nfcservice",
-       "category": "APP",
-       "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-       "appCategory":"PRODUCTIVITY",
-       "featureUrl": {
-         "en": "https://www.ute.com/en/products/detail/software_overview",
-         "tw": "https://www.ute.com/en/products/detail/software_overview",
-         "jp": "https://www.ute.com/en/products/detail/software_overview",
-         "cn": "https://www.ute.com/en/products/detail/software_overview"
-       },
-       "videoUrl": {
-         "en": "https://coming_soon",
-         "tw": "https://coming_soon",
-         "jp": "https://coming_soon",
-         "cn": "https://coming_soon"
-       }
-     },
-     {
-        "name": "EBrowser",
-        "packageName": "com.unitech.enterprisebrowser",
-        "category": "APP",
-        "iconURL":"https://raw.githubusercontent.com/scute0001/helloWorld/master/icon.png",
-        "appCategory":"PRODUCTIVITY",
-        "featureUrl": {
-          "en": "https://www.ute.com/en/products/detail/software_overview",
-          "tw": "https://www.ute.com/en/products/detail/software_overview",
-          "jp": "https://www.ute.com/en/products/detail/software_overview",
-          "cn": "https://www.ute.com/en/products/detail/software_overview"
-        },
-        "videoUrl": {
-          "en": "https://coming_soon",
-          "tw": "https://coming_soon",
-          "jp": "https://coming_soon",
-          "cn": "https://coming_soon"
-        }
-      },
 {
+    "name": "EA530",
+    "packageName": "",
+    "category": "DEVICE",
+	"iconURL":"",
+	"appCategory":"DEVICE",
+	"demo":"false",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/EA530",
+      "tw": "https://www.ute.com/en/products/detail/EA530",
+      "jp": "https://www.ute.com/jp/products/detail/EA530",
+      "cn": "https://www.ute.com/en/products/detail/EA530"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },	  	  	   
+{
+    "name": "WD200P",
+    "packageName": "",
+    "category": "DEVICE",
+	"iconURL":"https://www.ute.com/uploads/images/product/mobile%20computer/Wearable%20Computer/WD200P/WD200P_1_s.png",
+	"appCategory":"DEVICE",
+	"demo":"false",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/WD200Plus",
+      "tw": "https://www.ute.com/en/products/detail/WD200Plus",
+      "jp": "https://www.ute.com/en/products/detail/WD200Plus",
+      "cn": "https://www.ute.com/en/products/detail/WD200Plus"
+    },
+    "videoUrl": {
+      "en": "https://youtu.be/rnGzzXnRtsg?si=l7sQHBxduOh6haC1",
+      "tw": "https://youtu.be/rnGzzXnRtsg?si=l7sQHBxduOh6haC1",
+      "jp": "https://youtu.be/rnGzzXnRtsg?si=l7sQHBxduOh6haC1",
+      "cn": "https://youtu.be/rnGzzXnRtsg?si=l7sQHBxduOh6haC1"
+    }
+  },	  	  	   
+{
+    "name": "HT730P",
+    "packageName": "",
+    "category": "DEVICE",
+	"iconURL":"",
+	"appCategory":"DEVICE",
+	"demo":"false",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/HT730Plus",
+      "tw": "https://www.ute.com/en/products/detail/HT730Plus",
+      "jp": "https://www.ute.com/en/products/detail/HT730Plus",
+      "cn": "https://www.ute.com/en/products/detail/HT730Plus"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=YmSqYEqEhhw",
+      "tw": "https://www.youtube.com/watch?v=YmSqYEqEhhw",
+      "jp": "https://www.youtube.com/watch?v=YmSqYEqEhhw",
+      "cn": "https://www.youtube.com/watch?v=YmSqYEqEhhw"
+    }
+  },	  	  	   
+ {
+    "name": "PA768e",
+    "packageName": "",
+    "category": "DEVICE",
+	"iconURL":"",
+	"appCategory":"DEVICE",
+	"demo":"false",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/PA768",
+      "tw": "https://www.ute.com/tw/products/detail/PA768",
+      "jp": "https://www.ute.com/en/products/detail/PA768",
+      "cn": "http://www.ute-cn.com/cn/products/detail/PA768"
+    },
+    "videoUrl": {
+      "en": "https://youtu.be/C5BbJI2hM90",
+      "tw": "https://youtu.be/YaVBruJDYrs",
+      "jp": "https://youtu.be/C5BbJI2hM90",
+      "cn": "https://v.youku.com/v_show/id_XNTkzMjcxODIzNg==.html?spm=a1z3jc.11711052.0.0&isextonly=1"
+    }
+  },	  	  	  
+ {
+    "name": "RT112",
+    "packageName": "",
+    "category": "DEVICE",
+	"iconURL":"",
+	"appCategory":"DEVICE",
+	"demo":"false",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/RT112",
+      "tw": "https://www.ute.com/en/products/detail/RT112",
+      "jp": "https://www.ute.com/en/products/detail/RT112",
+      "cn": "https://www.ute.com/en/products/detail/RT112"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },
+ {
+    "name": "EA660",
+    "packageName": "",
+    "category": "DEVICE",
+	"iconURL":"",
+	"appCategory":"DEVICE",
+	"demo":"false",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/EA660",
+      "tw": "https://www.ute.com/en/products/detail/EA660",
+      "jp": "https://www.ute.com/en/products/detail/EA660",
+      "cn": "https://www.ute.com/en/products/detail/EA660"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },	 
+
+ {
+    "name": "PA768",
+    "packageName": "",
+    "category": "DEVICE",
+	"iconURL":"",
+	"appCategory":"DEVICE",
+	"demo":"false",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/PA768",
+      "tw": "https://www.ute.com/tw/products/detail/PA768",
+      "jp": "https://www.ute.com/en/products/detail/PA768",
+      "cn": "http://www.ute-cn.com/cn/products/detail/PA768"
+    },
+    "videoUrl": {
+      "en": "https://youtu.be/C5BbJI2hM90",
+      "tw": "https://youtu.be/YaVBruJDYrs",
+      "jp": "https://youtu.be/C5BbJI2hM90",
+      "cn": "https://v.youku.com/v_show/id_XNTkzMjcxODIzNg==.html?spm=a1z3jc.11711052.0.0&isextonly=1"
+    }
+  },	  	  	  
+  {
+    "name": "EA520",
+    "packageName": "",
+    "category": "DEVICE",
+	"iconURL":"",
+	"appCategory":"DEVICE",
+	"demo":"false",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/EA520",
+      "tw": "https://www.ute.com/tw/products/detail/EA520",
+      "jp": "https://www.ute.com/jp/products/detail/1249",
+      "cn": "http://www.ute.com/cn/products/detail/EA520"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=LzFK9xUUKmk",
+      "tw": "https://www.youtube.com/watch?v=LzFK9xUUKmk",
+      "jp": "https://www.youtube.com/watch?v=LzFK9xUUKmk",
+      "cn": "https://www.youtube.com/watch?v=LzFK9xUUKmk"
+    }
+  },
+  {
+    "name": "HT330",
+    "packageName": "",
+    "category": "DEVICE",
+	"iconURL":"",
+	"appCategory":"DEVICE",
+	"demo":"false",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/HT330",
+      "tw": "https://www.ute.com/en/products/detail/HT330",
+      "jp": "https://www.ute.com/jp/products/detail/1346",
+      "cn": "https://www.ute.com/en/products/detail/HT330"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=2qdaXXNZ2Uw",
+      "tw": "https://www.youtube.com/watch?v=2qdaXXNZ2Uw",
+      "jp": "https://www.youtube.com/watch?v=2qdaXXNZ2Uw",
+      "cn": "https://www.youtube.com/watch?v=2qdaXXNZ2Uw"
+    }
+  },	  
+  {
+    "name": "EA630_Plus",
+    "packageName": "DEVICE",
+    "category": "DEVICE",
+	"iconURL":"",
+	"appCategory":"DEVICE",
+	"demo":"false",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/EA630Plus",
+      "tw": "https://www.ute.com/en/products/detail/EA630Plus",
+      "jp": "https://www.ute.com/jp/products/detail/1347",
+      "cn": "https://www.ute.com/en/products/detail/EA630Plus"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=oDVEQK5rUPM",
+      "tw": "https://www.youtube.com/watch?v=oDVEQK5rUPM",
+      "jp": "https://www.youtube.com/watch?v=oDVEQK5rUPM",
+      "cn": "https://www.youtube.com/watch?v=oDVEQK5rUPM"
+    }
+  },	  
+ {
+    "name": "HT730",
+    "packageName": "",
+    "category": "DEVICE",
+	"iconURL":"",
+	"appCategory":"DEVICE",
+	"demo":"false",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/HT730",
+      "tw": "https://www.ute.com/tw/products/detail/HT730",
+      "jp": "https://www.ute.com/jp/products/detail/1158",
+      "cn": "http://www.ute.com/cn/products/detail/HT730"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=WtMKjed0gT0",
+      "tw": "https://www.youtube.com/watch?v=WtMKjed0gT0",
+      "jp": "https://www.youtube.com/watch?v=WtMKjed0gT0",
+      "cn": "https://www.youtube.com/watch?v=WtMKjed0gT0"
+    }
+  },	  	  
+ {
+    "name": "PA760",
+    "packageName": "",
+    "category": "DEVICE",
+	"iconURL":"",
+	"appCategory":"DEVICE",
+	"demo":"false",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/PA760",
+      "tw": "https://www.ute.com/tw/products/detail/PA760",
+      "jp": "https://www.ute.com/jp/products/detail/PA760",
+      "cn": "http://www.ute.com/cn/products/detail/PA760"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=hazRCvcgcjM",
+      "tw": "https://www.youtube.com/watch?v=hazRCvcgcjM",
+      "jp": "https://www.youtube.com/watch?v=hazRCvcgcjM",
+      "cn": "https://www.youtube.com/watch?v=hazRCvcgcjM"
+    }
+  },	  	  	  
+  {
+    "name": "ELauncher",
+    "packageName": "com.ute.eu.ELauncher",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"DEPLOYMENT",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/Elauncher2",
+      "tw": "https://www.ute.com/tw/products/detail/ELauncher",
+      "jp": "https://www.ute.com/jp/products/detail/1586",
+      "cn": "https://www.ute.com/cn/products/detail/ELauncher"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=IHEuxyEZ218",
+      "tw": "https://www.youtube.com/watch?v=IHEuxyEZ218",
+      "jp": "https://www.youtube.com/watch?v=IHEuxyEZ218",
+      "cn": "https://www.youtube.com/watch?v=IHEuxyEZ218"
+    }
+  },
+  { 
+    "name": "MoboLink",
+    "packageName": "com.unitech.mobolink",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"MANAGEMENT",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/MoboLink4",
+      "tw": "https://www.ute.com/tw/products/detail/MoboLink",
+      "jp": "https://www.ute.com/jp/products/detail/1070",
+      "cn": "http://www.ute.com/cn/products/detail/MoboLink"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "tw": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "jp": "https://www.youtube.com/watch?v=wnNhQ2FhflU",
+      "cn": "https://www.youtube.com/watch?v=wnNhQ2FhflU"
+    }
+  },
+  {
+    "name": "StageGO",
+    "packageName": "com.unitech.stagego2",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"DEPLOYMENT",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/stagego",
+      "tw": "https://www.ute.com/tw/products/detail/StageGO",
+      "jp": "https://www.ute.com/jp/products/detail/1065",
+      "cn": "https://www.ute.com/cn/products/detail/StageGO"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=GdPzBpNR7pU",
+      "tw": "https://www.youtube.com/watch?v=nvKrA2rMdtA",
+      "jp": "https://www.youtube.com/watch?v=bv5suswMDtQ",
+      "cn": "https://www.youtube.com/watch?v=GdPzBpNR7pU"
+    }
+  },
+  {
+    "name": "KeyRemap",
+    "packageName": "com.unitech.keyremap",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"DEPLOYMENT",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/keyremap",
+      "tw": "https://www.ute.com/tw/products/detail/Keyremap",
+      "jp": "https://www.ute.com/jp/products/detail/1386",
+      "cn": "https://www.ute.com/cn/products/detail/Keyremap"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },
+  {
+    "name": "Software Update",
+    "packageName": "com.unitech.usus",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"MANAGEMENT",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/software_overview",
+      "tw": "https://www.ute.com/en/products/detail/software_overview",
+      "jp": "https://www.ute.com/en/products/detail/software_overview",
+      "cn": "https://www.ute.com/en/products/detail/software_overview"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },
+  {
+    "name": "TagAccess",
+    "packageName": "com.unitech.tagaccess",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"RFID",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/TagAccess",
+      "tw": "https://www.ute.com/en/products/detail/TagAccess",
+      "jp": "https://www.ute.com/jp/products/detail/1345",
+      "cn": "https://www.ute.com/en/products/detail/TagAccess"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=qhyt_s0-YLc",
+      "tw": "https://www.youtube.com/watch?v=qhyt_s0-YLc",
+      "jp": "https://www.youtube.com/watch?v=paFVj8ln5xQ",
+      "cn": "https://www.youtube.com/watch?v=qhyt_s0-YLc"
+    }
+  },
+  {
+    "name": "TagAccess2",
+    "packageName": "com.unitech.tagaccess2",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"RFID",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/TagAccess",
+      "tw": "https://www.ute.com/en/products/detail/TagAccess",
+      "jp": "https://www.ute.com/jp/products/detail/1345",
+      "cn": "https://www.ute.com/en/products/detail/TagAccess"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=qhyt_s0-YLc",
+      "tw": "https://www.youtube.com/watch?v=qhyt_s0-YLc",
+      "jp": "https://www.youtube.com/watch?v=paFVj8ln5xQ",
+      "cn": "https://www.youtube.com/watch?v=qhyt_s0-YLc"
+    }
+  },
+  {
+    "name": "Scanner Utility",
+    "packageName": "com.unitech.scanner.utility",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"SCANNER",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/USU",
+      "tw": "https://www.ute.com/tw/products/detail/USU",
+      "jp": "https://www.ute.com/jp/products/detail/USU",
+      "cn": "https://www.ute.com/cn/products/detail/USU"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },
+  {
+    "name": "USS",
+    "packageName": "com.unitech.scanservice",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"PRODUCTIVITY",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/software_overview",
+      "tw": "https://www.ute.com/en/products/detail/software_overview",
+      "jp": "https://www.ute.com/en/products/detail/software_overview",
+      "cn": "https://www.ute.com/en/products/detail/software_overview"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },
+  {
+    "name": "USSCamera",
+    "packageName": "com.unitech.usscamera",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"PRODUCTIVITY",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/software_overview",
+      "tw": "https://www.ute.com/en/products/detail/software_overview",
+      "jp": "https://www.ute.com/en/products/detail/software_overview",
+      "cn": "https://www.ute.com/en/products/detail/software_overview"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },
+  {
+    "name": "Logger",
+    "packageName": "com.unitech.logger",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"MANAGEMENT",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/Logger",
+      "tw": "https://www.ute.com/en/products/detail/software_overview",
+      "jp": "https://www.ute.com/en/products/detail/software_overview",
+      "cn": "https://www.ute.com/en/products/detail/software_overview"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },
+  {
+    "name": "Enterprise Keyboard",
+    "packageName": "com.unitech.enterprisekeyboard",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"PRODUCTIVITY",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/Enterprise_Keyboard",
+      "tw": "https://www.ute.com/tw/products/detail/EnterpriseKeyboard",
+      "jp": "https://www.ute.com/jp/products/detail/1439",
+      "cn": "https://www.ute.com/cn/products/detail/EnterpriseKeyboard"
+    },
+    "videoUrl": {
+      "en": "https://www.youtube.com/watch?v=LCtc4cGOFs8",
+      "tw": "https://www.youtube.com/watch?v=LCtc4cGOFs8",
+      "jp": "https://www.youtube.com/watch?v=LCtc4cGOFs8",
+      "cn": "https://www.youtube.com/watch?v=LCtc4cGOFs8"
+    }
+  },
+  {
+    "name": "NFC Service",
+    "packageName": "com.unitech.nfcservice",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"PRODUCTIVITY",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/software_overview",
+      "tw": "https://www.ute.com/en/products/detail/software_overview",
+      "jp": "https://www.ute.com/en/products/detail/software_overview",
+      "cn": "https://www.ute.com/en/products/detail/software_overview"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },
+  {
+    "name": "EBrowser",
+    "packageName": "com.unitech.enterprisebrowser",
+    "category": "APP",
+	"iconURL":"",
+	"appCategory":"SDK",
+	"demo":"true",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/EBrowser",
+      "tw": "https://www.ute.com/en/products/detail/EBrowser",
+      "jp": "https://www.ute.com/en/products/detail/EBrowser",
+      "cn": "https://www.ute.com/en/products/detail/EBrowser"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },
+  {
+    "name": "UNote",
+    "packageName": "com.unitech.unote",
+    "category": "APP",
+	"iconURL":"https://apps.ute.com/showcase/icon/UNote.png",
+	"appCategory":"PRODUCTIVITY",
+	"demo":"false",
+    "featureUrl": {
+      "en": "https://www.ute.com/en/products/detail/UNote",
+      "tw": "https://www.ute.com/en/products/detail/UNote",
+      "jp": "https://www.ute.com/en/products/detail/UNote",
+      "cn": "https://www.ute.com/en/products/detail/UNote"
+    },
+    "videoUrl": {
+      "en": "https://coming_soon",
+      "tw": "https://coming_soon",
+      "jp": "https://coming_soon",
+      "cn": "https://coming_soon"
+    }
+  },
+  {
     "name": "OEMConfig",
     "packageName": "com.unitech.oemconfig",
     "category": "APP",
 	"iconURL":"https://apps.ute.com/showcase/icon/OEMConfig.png",
 	"appCategory":"DEPLOYMENT",
-"demo":"true",
+	"demo":"false",
     "featureUrl": {
       "en": "https://www.ute.com/en/products/detail/OEMConfig",
       "tw": "https://www.ute.com/en/products/detail/OEMConfig",
@@ -445,7 +566,7 @@
     "category": "APP",
 	"iconURL":"https://apps.ute.com/showcase/icon/ScanBridge.png",
 	"appCategory":"SCANNER",
-"demo":"true",
+	"demo":"true",
     "featureUrl": {
       "en": "https://www.ute.com/en/products/detail/ScanBridge",
       "tw": "https://www.ute.com/tw/products/detail/ScanBridge",
@@ -453,10 +574,50 @@
       "cn": "https://www.ute.com/cn/products/detail/ScanBridge"
     },
     "videoUrl": {
-      "en": "https://coming_soon",
-      "tw": "https://coming_soon",
-      "jp": "https://coming_soon",
-      "cn": "https://coming_soon"
+      "en": "https://www.youtube.com/watch?v=ViWVtlZ475w",
+      "tw": "https://www.youtube.com/watch?v=ViWVtlZ475w",
+      "jp": "https://www.youtube.com/watch?v=ViWVtlZ475w",
+      "cn": "https://www.youtube.com/watch?v=ViWVtlZ475w"
     }
-  }  
-   ]
+  },
+  {
+    "name": "OCRWedge",
+    "packageName": "com.unitech.ocrwedge",
+    "category": "APP",
+  	"iconURL":"",
+  	"appCategory":"SCANNER",
+  	"demo":"true",
+      "featureUrl": {
+        "en": "https://www.ute.com/en/products/detail/ScanBridge",
+        "tw": "https://www.ute.com/tw/products/detail/ScanBridge",
+        "jp": "https://www.ute.com/jp/products/detail/ScanBridge",
+        "cn": "https://www.ute.com/cn/products/detail/ScanBridge"
+      },
+      "videoUrl": {
+        "en": "https://www.youtube.com/watch?v=ViWVtlZ475w",
+        "tw": "https://www.youtube.com/watch?v=ViWVtlZ475w",
+        "jp": "https://www.youtube.com/watch?v=ViWVtlZ475w",
+        "cn": "https://www.youtube.com/watch?v=ViWVtlZ475w"
+      }
+    },
+    {
+        "name": "License Manager",
+        "packageName": "com.unitech.licensemanager.service",
+        "category": "APP",
+    	"iconURL":"",
+    	"appCategory":"MANAGEMENT",
+    	"demo":"true",
+        "featureUrl": {
+          "en": "https://www.ute.com/en/products/detail/ScanBridge",
+          "tw": "https://www.ute.com/tw/products/detail/ScanBridge",
+          "jp": "https://www.ute.com/jp/products/detail/ScanBridge",
+          "cn": "https://www.ute.com/cn/products/detail/ScanBridge"
+        },
+        "videoUrl": {
+          "en": "https://www.youtube.com/watch?v=ViWVtlZ475w",
+          "tw": "https://www.youtube.com/watch?v=ViWVtlZ475w",
+          "jp": "https://www.youtube.com/watch?v=ViWVtlZ475w",
+          "cn": "https://www.youtube.com/watch?v=ViWVtlZ475w"
+        }
+     }
+]
